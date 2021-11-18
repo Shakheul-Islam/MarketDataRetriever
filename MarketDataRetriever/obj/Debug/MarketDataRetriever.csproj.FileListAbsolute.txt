@@ -1,0 +1,1 @@
+G:\Personal Work\MarketDataRetriever\MarketDataRetriever\bin\Debug\MarketDataRetriever.exe.config
