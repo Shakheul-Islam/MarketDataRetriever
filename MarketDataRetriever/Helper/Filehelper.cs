@@ -128,5 +128,8 @@ namespace MarketDataRetriever.Helper
                 sw.Dispose();
             }
         }
+        public static string DoSomething() {
+            return "Tomal Sir is fadeup with Arunav";
+        }
     }
 }
